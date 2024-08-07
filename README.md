@@ -6,8 +6,6 @@
 
 👨‍💻 I am passionate about problem-solving and pioneering first-principle thinking, driven by a purpose to find innovative solutions. My work often focuses on enhancing decision-making processes and user experiences through data science and machine learning. I excel at communicating complex technical concepts to non-technical stakeholders, ensuring alignment between technology solutions and business goals. Beyond my professional work, I am an enthusiastic learner and tech explorer, constantly seeking new challenges and staying updated with the latest technological advancements.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **break dancing (hip-hop)**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
-
 📚 I also love reading books on **personal development** & **financial literacy**. My favorite ones are **The Compound Effect** by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
 
 ✈️ I love **traveling** too. I have been on solo trips to **Seattle** in _2022_ and to **Florida** in _2023_.
